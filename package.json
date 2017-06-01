@@ -1,13 +1,10 @@
 {
   "name": "vue-ssr",
   "version": "1.0.0",
-  "description": "",
+  "description": "A simple implementation of server-side rendering in Vue.js",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
+  "author": "Giordano Piazza",
+  "license": "MIT",
   "dependencies": {
     "vue": "^2.3.3",
     "vue-server-renderer": "^2.3.3"
